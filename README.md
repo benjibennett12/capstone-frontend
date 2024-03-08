@@ -4,6 +4,8 @@
 
 # LoanIQ
 
+Hosted Site: https://main.dxn5zfnjwv4w7.amplifyapp.com/ 
+
 LoanIQ is a loan management application that streamlines the loan application process not only for users, but for admins as well. LoanIQ utilizies A.I to evaluate loan requests and allow admins to make informed decisions when approving or denying loan requests. LoanIQ also offers a 24/7 active customer support bot that not only assists users in loan management but for the application overall.
 
 ## Features
